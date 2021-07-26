@@ -1,0 +1,16 @@
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ValidadorDeSenhasComRequisitos.exe
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ValidadorDeSenhasComRequisitos.deps.json
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ValidadorDeSenhasComRequisitos.runtimeconfig.json
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ValidadorDeSenhasComRequisitos.runtimeconfig.dev.json
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ValidadorDeSenhasComRequisitos.dll
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ref\ValidadorDeSenhasComRequisitos.dll
+D:\git\ValidadorDeSenhasComRequisitos\bin\Debug\net5.0\ValidadorDeSenhasComRequisitos.pdb
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.csprojAssemblyReference.cache
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.AssemblyInfoInputs.cache
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.AssemblyInfo.cs
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.csproj.CoreCompileInputs.cache
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.dll
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ref\ValidadorDeSenhasComRequisitos.dll
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.pdb
+D:\git\ValidadorDeSenhasComRequisitos\obj\Debug\net5.0\ValidadorDeSenhasComRequisitos.genruntimeconfig.cache
